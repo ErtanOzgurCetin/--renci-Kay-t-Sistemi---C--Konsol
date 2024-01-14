@@ -1,0 +1,31 @@
+C:\Users\Infotech Academy\source\repos\HaftaSonu Sabah Sınıfı\Console Dersleri\12. Gün\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.exe.config
+C:\Users\Infotech Academy\source\repos\HaftaSonu Sabah Sınıfı\Console Dersleri\12. Gün\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.exe
+C:\Users\Infotech Academy\source\repos\HaftaSonu Sabah Sınıfı\Console Dersleri\12. Gün\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.pdb
+C:\Users\Infotech Academy\source\repos\HaftaSonu Sabah Sınıfı\Console Dersleri\12. Gün\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.csproj.AssemblyReference.cache
+C:\Users\Infotech Academy\source\repos\HaftaSonu Sabah Sınıfı\Console Dersleri\12. Gün\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Infotech Academy\source\repos\HaftaSonu Sabah Sınıfı\Console Dersleri\12. Gün\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\Infotech Academy\source\repos\HaftaSonu Sabah Sınıfı\Console Dersleri\12. Gün\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.exe
+C:\Users\Infotech Academy\source\repos\HaftaSonu Sabah Sınıfı\Console Dersleri\12. Gün\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.pdb
+D:\programlama\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.exe.config
+D:\programlama\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.exe
+D:\programlama\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.pdb
+D:\programlama\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.csproj.AssemblyReference.cache
+D:\programlama\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.csproj.SuggestedBindingRedirects.cache
+D:\programlama\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.csproj.CoreCompileInputs.cache
+D:\programlama\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.exe
+D:\programlama\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.pdb
+D:\programlama\C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.exe.config
+D:\programlama\C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.exe
+D:\programlama\C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.pdb
+D:\programlama\C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.csproj.AssemblyReference.cache
+D:\programlama\C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.csproj.SuggestedBindingRedirects.cache
+D:\programlama\C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.csproj.CoreCompileInputs.cache
+D:\programlama\C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.exe
+D:\programlama\C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.pdb
+D:\programlama\1- C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.exe.config
+D:\programlama\1- C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.exe
+D:\programlama\1- C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\bin\Debug\20230402_1_GenelAlistirma.pdb
+D:\programlama\1- C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.csproj.AssemblyReference.cache
+D:\programlama\1- C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.csproj.CoreCompileInputs.cache
+D:\programlama\1- C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.exe
+D:\programlama\1- C# DERSLERİ\12. GÜN\20230402_1_GenelAlistirma\20230402_1_GenelAlistirma\obj\Debug\20230402_1_GenelAlistirma.pdb
